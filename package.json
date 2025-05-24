@@ -1,5 +1,5 @@
 {
-    "name": "react-native-video",
+    "name": "@xennobyte-technologies/react-native-video",
     "version": "6.14.0",
     "description": "A <Video /> element for react-native",
     "main": "lib/index",
@@ -7,10 +7,9 @@
     "react-native": "src/index",
     "license": "MIT",
     "author": "Community Contributors",
-    "homepage": "https://docs.thewidlarzgroup.com/react-native-video/",
     "repository": {
         "type": "git",
-        "url": "git@github.com:TheWidlarzGroup/react-native-video.git"
+        "url": "git@github.com:xennobyte-technologies/react-native-video.git"
     },
     "devDependencies": {
         "@expo/config-plugins": "^8.0.5",
