@@ -31,7 +31,7 @@ class AspectRatioFrameLayout(context: Context) : FrameLayout(context) {
             }
         }
 
-    var resizeMode: Int = ResizeMode.RESIZE_MODE_FIT
+    var resizeMode: Int = ResizeMode.RESIZE_MODE_FILL
         set(value) {
             if (value != field) {
                 field = value
